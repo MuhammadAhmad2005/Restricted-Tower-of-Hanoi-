@@ -1,12 +1,8 @@
 # 🗼 Restricted Tower of Hanoi — Interactive Game
 
-> **DAA Assignment #4 | Project Part II**
-> Bahria University, Islamabad | BSCS-5A, Spring 2026
-> **Muhammad Ahmad** | Enrollment: 01-134241-024
+> **DAA Project **
 
----
-
-## 📌 What is the Restricted Tower of Hanoi?
+📌 What is the Restricted Tower of Hanoi?
 
 The **Restricted Tower of Hanoi** is a variant of the classic puzzle where **direct moves between the Source (S) and Destination (D) pegs are forbidden**. Every disk must pass through the Middle (M) peg.
 
