@@ -1,6 +1,6 @@
 # 🗼 Restricted Tower of Hanoi — Interactive Game
 
-> **DAA Project **
+> DAA Project 
 
 📌 What is the Restricted Tower of Hanoi?
 
@@ -52,8 +52,7 @@ python Restricted_Tower_of_Hanoi_Enhanced.py
 ```
 Restricted-Tower-of-Hanoi/
 │
-├── Restricted_Tower_of_Hanoi_Enhanced.py   # Main game file (enhanced version)
-├── Restricted_Tower_of_Hanoi.py            # Original version
+├── Restricted_Tower_of_Hanoi_.py   # Main game file 
 ├── records.json                            # Auto-generated high score file
 ├── requirements.txt                        # Python dependencies
 ├── background.png                          # (optional) Main menu background
@@ -78,14 +77,6 @@ To move n disks from Source → Destination (via Middle only):
 ```
 
 **Recurrence:** `T(n) = 3·T(n−1) + 2`, solved as `T(n) = 3ⁿ − 1`
-
----
-
-## 📸 Screenshots
-
-| Main Menu | Gameplay | Victory Screen |
-|---|---|---|
-| *(add screenshot)* | *(add screenshot)* | *(add screenshot)* |
 
 ---
 
